@@ -14,7 +14,15 @@ A PowerShell-based inventory tool that retrieves installed software information 
   - Publisher
 - Sorts applications alphabetically
 - Exports inventory to CSV
+## Screenshots
 
+### CSV Report
+
+![CSV Report](Screenshots/CSVOutput.png)
+
+### Source Code
+
+![Source Code](Screenshots/SourceCode.png)
 ## Technologies Used
 
 - PowerShell
